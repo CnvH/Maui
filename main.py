@@ -1,4 +1,4 @@
-from TF03_Module import TF_03
+import TF03_Module
 
 
 x = TF_03()
