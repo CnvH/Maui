@@ -1,6 +1,6 @@
 import TF03_Module
 
 
-x = TF_03()
+x = TF03()
 print(x.msg)
 
