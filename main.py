@@ -1,6 +1,5 @@
-from TF03_Module import TF_03
-
+from TF03_module import TF03
 
 x = TF03()
-print(x.msg)
+print('Hello From ESP32')
 
