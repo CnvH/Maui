@@ -2,7 +2,7 @@
 from machine import UART
 
 
-class TF_03:
+class TF03:
 
     def __init__(self):
         self.msg_max_size = 10
